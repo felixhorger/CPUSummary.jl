@@ -5,6 +5,7 @@ version = "0.2.1"
 
 [deps]
 CpuId = "adafc99b-e345-5852-983c-f28acb93d879"
+Hwloc = "0e44f5e4-bd66-52a0-8798-143a42290a1d"
 IfElse = "615f187c-cbe4-4ef1-ba3b-2fcf58d6d173"
 Static = "aedffcd0-7271-4cad-89d0-dc628f76c6d3"
 

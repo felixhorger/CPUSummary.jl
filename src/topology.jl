@@ -76,6 +76,7 @@ else # not M1
     (:num_cores, :Core),
     (:sys_threads, :PU),
   ]
+	@show f, attr, count_attr(attr)
     define_attr_count(f, count_attr(attr))
   end
 
